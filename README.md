@@ -1,5 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=dyxierxd&theme=github-dark&mode=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dyxierxd&theme=github-dark&mode=dark" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=dyxierxd&theme=github-dark&mode=dark" />
-</picture>
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Dyxier
+</h1>
