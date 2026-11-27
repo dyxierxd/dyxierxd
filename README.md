@@ -1,14 +1,5 @@
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=dyxierxd&theme=github-dark&mode=dark" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=dyxierxd&theme=nightowl&hide_border=true&cache_seconds=86400" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=dyxierxd&theme=github-dark&mode=dark" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=dyxierxd&theme=github-dark&mode=dark" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=dyxierxd&theme=github-dark&mode=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dyxierxd&theme=github-dark&mode=dark" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=dyxierxd&theme=github-dark&mode=dark" />
+</picture>
